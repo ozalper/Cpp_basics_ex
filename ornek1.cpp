@@ -7,7 +7,7 @@ double square(double x){        // square a double precision floating point numb
 }
 
 void print_square(double x){
-    cout << "the square of" << x << "is " << square(x) << "\n";
+    cout << "the square of " << x << " is " << square(x) << "\n";
 }
 
 int main(){
